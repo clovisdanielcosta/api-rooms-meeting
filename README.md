@@ -2,9 +2,9 @@
 :small_red_triangle_down: Backend do Projeto Salas de Reunião
 </h1>
 
-<h3 align="center">
-API em Java com Spring Boot para ser consumida pelo repositório rooms-meeting
-</h3>
+<h4 align="center">
+API em Java com Spring Boot para o app rooms-meeting
+</h4>
 
 <h2 align="center">
 Bootcamp everis Fullstack Developer pela Digital Innovation One

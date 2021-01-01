@@ -89,15 +89,11 @@ Atalhos de teclados para o VSCode.
   <img  alt="Cartão de Referência do IntelliJ" src="./img/vscode-shortcuts-windows.png" width="30%">
 </p>
 
-Atalhos para o VSCode (Linux).
-
 [Linux](./docs/keyboard-shortcuts-linux.pdf) (pdf completo)
 
 <p align="center">
   <img  alt="Cartão de Referência do IntelliJ" src="./img/vscode-shortcuts-linux.png" width="30%">
 </p>
-
-Atalhos para o VSCode (macOS).
 
 [macOS](./docs/keyboard-shortcuts-linux.pdf) (pdf completo)
 

@@ -49,13 +49,21 @@ Estas foram as tecnologias utilizadas neste projeto:
  - Entendendo o Cross Origin para permitir que o Frontend consuma a API.
  
 ## :computer: Instalação
-Para executar o projeto no terminal, digite o seguinte comando:
+1. Clone este repositório no seu computador (FORA da pasta do frontend):
 
-mvn spring-boot:run
+    `$ git clone https://github.com/clovisdanielcosta/rooms-meeting-api.git`
 
-Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
+2. Digite num terminal:
 
-http://localhost:8080/api/v1/rooms
+    `$ cd rooms-meeting-api`
+
+3. Para executar o projeto no terminal, digite o seguinte comando:
+
+    `$ mvn spring-boot:run`
+
+4. Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
+
+`http://localhost:8080/api/v1/rooms`
 
 Link para o repositório Salas de Reunião (rooms-meting):
 [App Salas de Reunião](https://github.com/clovisdanielcosta/rooms-meeting.git)

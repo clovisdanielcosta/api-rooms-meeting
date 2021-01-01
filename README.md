@@ -32,7 +32,7 @@ O objetivo deste projeto é desenvolver uma API em Java com Spring Boot para ser
 
 ## :gem: Conteúdo do Curso
  1. Setup inicial de projeto com o Spring Boot Initialzr (start.spring.io).
- 2. Desenvolvimento de operações de gerenciamento de salas (Cadastro, Consulta, Alteração e Deleção de salas do sistema).
+ 2. Criando as operações de gerenciamento de salas do sistema (Cadastro, Consulta, Alteração e Remoção de salas).
  3. Teste de consumo da API com o Postman.
 
 ## :rocket: Tecnologias
@@ -63,22 +63,17 @@ Link para o repositório Salas de Reunião (rooms-meting):
 ### Endpoints criados na API
 * Criar sala de reuniao
 POST - /api/v1/rooms
-
 * Listar todas as salas
 GET - /api/v1/rooms
-
 * Buscar uma sala pelo Id
 GET - /api/v1/rooms/{id}
-
 * Atualizar uma sala pelo Id
 PUT - /api/v1/rooms/{id}
-
 * Excluir uma sala pelo id
 DELETE - /api/v1/rooms/{Id}
 
-
 ## :small_orange_diamond: Compartilhando 
-Atalhos para o IntelliJ (Reference Card) no link fornecido pelo professor.
+Atalhos para o IntelliJ (Reference Card).
 
 [IntelliJ Reference Card](./docs/IntelliJIDEA_ReferenceCard.pdf) (pdf completo)
 
@@ -86,7 +81,7 @@ Atalhos para o IntelliJ (Reference Card) no link fornecido pelo professor.
   <img  alt="Cartão de Referência do IntelliJ" src="./img/intellij-card.png" width="30%">
 </p>
 
-Atalhos para o VSCode (Windows).
+Atalhos de teclados para o VSCode.
 
 [Windows](./docs/keyboard-shortcuts-windows.pdf) (pdf completo)
 

@@ -51,11 +51,11 @@ Estas foram as tecnologias utilizadas neste projeto:
 ## :computer: Instalação
 1. Clone este repositório no seu computador (FORA da pasta do frontend):
 
-    `$ git clone https://github.com/clovisdanielcosta/rooms-meeting-api.git`
+    `$ git clone https://github.com/clovisdanielcosta/api-rooms-meeting.git`
 
 2. Digite num terminal:
 
-    `$ cd rooms-meeting-api`
+    `$ cd api-rooms-meeting`
 
 3. Para executar o projeto no terminal, digite o seguinte comando:
 
